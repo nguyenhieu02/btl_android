@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "982929674454",
+    "firebase_url": "https://login-89e2a-default-rtdb.firebaseio.com",
+    "project_id": "login-89e2a",
+    "storage_bucket": "login-89e2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982929674454:android:9600d1ed01999e28ba3977",
+        "android_client_info": {
+          "package_name": "com.ssv.loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982929674454-9ets34r5rd1ntmv91d6nns57ln0fivpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCisMQhIrvHMrTuScbda3hYypEjCv9ocqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982929674454-9ets34r5rd1ntmv91d6nns57ln0fivpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
